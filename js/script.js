@@ -60,7 +60,7 @@ const imgs = [
      <div class="sliderthumb">
          <div class="row d-flex flex-column align-items-center">
              <div class="col-6 ">
-                 <div class="thumbox">
+                 <div class="thumbox light-border">
                      <img src="./img/01.webp" alt="">
                  </div>
              </div>
